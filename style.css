@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("spider.jpg");
+    background-size:contain;
+    height:360px;
+}
+
+.calculator{
+    background-color:antiquewhite;
+    width: 300px;
+    margin: 60px;
+    padding: 20px;
+    height: 250px;
+}
+
+input{
+    width:85%;
+    margin:5px;
+    padding:5px
+}
+
+button{
+
+}
